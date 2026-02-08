@@ -5,10 +5,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-> **Research Paper**: Green Corridor System with Adaptive Weighted A* Routing and Multi-Phase Traffic Signal Preemption  
-> **Target Journal**: Springer Nature Journal  
-> **Network**: Bangalore, India (532,847 edges, 124,356 junctions, 1,247 signals)
-
 Comprehensive emergency vehicle routing system combining **adaptive weighted A* routing** with **enhanced multi-phase traffic signal preemption** for optimal urban emergency response.
 
 ---
@@ -346,3 +342,4 @@ python -c "from src.utils import config; print(config.NETWORK_FILE)"
 **Version**: 1.0.0  
 **Status**: Active Development  
 **License**: MIT
+
